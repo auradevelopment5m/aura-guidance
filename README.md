@@ -1,1 +1,2 @@
-# aura-guidance
+- [Preview](https://streamable.com/nxxl9b)
+- [Documentation](https://zdevelopment.gitbook.io/aura-development-documentation/free-scripts/aura-guidance)
